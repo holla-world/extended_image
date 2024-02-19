@@ -11,11 +11,10 @@ environment:
 dependencies:
   extended_image_library:
     git:
-      url: https://github.com/holla-fanxiuming/extended_image_library.git
+      url: https://github.com/holla-world/extended_image_library.git
       ref: master
   flutter:
     sdk: flutter
 dependency_overrides:
 # extended_image_library:
 #   path: ../extended_image_library
-
